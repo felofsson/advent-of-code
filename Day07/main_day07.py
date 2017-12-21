@@ -26,4 +26,3 @@ if __name__ == "__main__":
                 grand_parent = parent
 
     print("grand_parent=", grand_parent)
-    
